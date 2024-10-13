@@ -78,16 +78,16 @@
   ],
   "artifacts": [
     {
-      "hash": "9b029ecc15e00d01ffb9d5bfb9a8aefff24a5d74f97b156be404d69648e102f2",
+      "hash": "7f7c85134cf78301b74cf470f927c1af5ff5a0a813a308e4caa1ab4b1283f84f",
       "name": "game.jar",
-      "path": "https://github.com/SolaireRShosting/raw/main/client/live/repo/game.jar",
-      "size": 1727395
+      "path": "https://github.com/SolaireRS/hosting/raw/main/client/live/repo/game.jar",
+      "size": 1736407
     },
     {
-      "hash": "ed41df386bb8e842409d66d698e711c02bea953d63d7e0c0f6ea243f2549c871",
+      "hash": "9dabf0fff5e23e157fdf79a2e5fa98ecd8b459e28553a99db4cb8c22ff5e60a0",
       "name": "runelite-0.0.1.jar",
-      "path": "https://github.com/SolaireRShosting/raw/main/client/live/repo/runelite-0.0.1.jar",
-      "size": 23867757
+      "path": "https://github.com/SolaireRS/hosting/raw/main/client/live/repo/runelite-0.0.1.jar",
+      "size": 23884981
     },
     {
       "hash": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
@@ -115,7 +115,7 @@
     },
     {
       "hash": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
-      "name": "okio-2.8.0.jar",
+      "name": "okio-jvm-2.8.0.jar",
       "path": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar",
       "size": 243179
     },
@@ -586,13 +586,13 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game.jar": "9b029ecc15e00d01ffb9d5bfb9a8aefff24a5d74f97b156be404d69648e102f2",
-    "runelite-0.0.1.jar": "ed41df386bb8e842409d66d698e711c02bea953d63d7e0c0f6ea243f2549c871",
+    "game.jar": "7f7c85134cf78301b74cf470f927c1af5ff5a0a813a308e4caa1ab4b1283f84f",
+    "runelite-0.0.1.jar": "9dabf0fff5e23e157fdf79a2e5fa98ecd8b459e28553a99db4cb8c22ff5e60a0",
     "kotlin-stdlib-jdk8-1.8.22.jar": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
     "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
     "klaxon-5.5.jar": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
-    "okio-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
+    "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
     "kotlin-reflect-1.4.31.jar": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
     "kotlin-stdlib-1.8.22.jar": "03a5c3965cc37051128e64e46748e394b6bd4c97fa81c6de6fc72bfd44e3421b",
     "commons-text-1.10.0.jar": "770cd903fa7b604d1f7ef7ba17f84108667294b2b478be8ed1af3bffb4ae0018",
